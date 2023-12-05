@@ -1,5 +1,6 @@
 # Revista
 
+Este link te dirige a un apartado donde puedes viualizar una apartado con más información sobre este tema.
 https://www.canva.com/design/DAF1TY-IbqU/FLsmvarDzy_wDzzHDi9KNg/edit
 
 
