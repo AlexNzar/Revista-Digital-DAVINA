@@ -4,6 +4,8 @@ Este link te dirige a un apartado donde puedes viualizar una apartado con más i
 https://www.canva.com/design/DAF1TY-IbqU/FLsmvarDzy_wDzzHDi9KNg/edit
 
 
+
+
 ![image](https://github.com/AlexNzar/Revista/assets/145720196/9a125bb2-dd10-4e55-9bf2-f2eb549edb78)
 
 
