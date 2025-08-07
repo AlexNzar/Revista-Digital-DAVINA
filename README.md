@@ -1,3 +1,46 @@
+# Revista DAVINA: Análisis de Violencia Laboral hacia Mujeres  
+
+![Logo](docs/images/logo.png) *(opcional)*  
+
+## Objetivo  
+Proyecto de análisis de datos para identificar patrones de violencia laboral contra mujeres mediante encuestas codificadas y propuestas de intervención.  
+
+## Estructura del Repositorio  
+
+REVISTA/  
+│
+├── data/                  # Datos del proyecto  
+│   ├── raw/               # Datos crudos (ej: encuestas originales)  
+│   └── processed/         # Datos limpios (ej: CSV listos para análisis)  
+│
+├── notebooks/             # Jupyter Notebooks o scripts de análisis  
+│   └── EDA.ipynb          # Análisis exploratorio  
+│
+├── src/                   # Código fuente  
+│   ├── encuesta/          # Código de la encuesta (Java/Python)  
+│   └── utils/             # Funciones auxiliares (ej: limpieza de datos)  
+│
+├── docs/                  # Documentación  
+│   ├── DAVINA.pdf         # Revista digital  
+│   └── images/            # Imágenes usadas en la revista o README  
+│
+├── .gitignore             # Archivos que Git debe ignorar (ej: .csv, .pyc)  
+└── README.md              # Presentación del proyecto (¡ya lo tienes!)  
+
+
+## Tecnologías Usadas  
+- Python (Pandas, Matplotlib)  
+- Java (encuestas por terminal)  
+- GitHub (control de versiones)  
+
+## Cómo Contribuir  
+1. Clona el repositorio.  
+2. Ejecuta `pip install -r requirements.txt` (si aplica).  
+3. Explora los notebooks en `/notebooks`.  
+
+## Autores  
+- Erik Alejandro Mancio Almanzar  (https://github.com/AlexNzar)  
+ 
  Revista
 
 Este link te dirige a un apartado donde puedes viualizar una apartado con más información sobre este tema.
