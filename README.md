@@ -1,6 +1,6 @@
 # Revista DAVINA: Análisis de Violencia Laboral hacia Mujeres  
 
-![Portada de la revista DAVINA](https://github.com/AlexNzar/Revista/blob/main/docs/images/Portada_revista.png))
+![Portada de la revista DAVINA](https://github.com/AlexNzar/Revista/blob/main/docs/images/Portada_revista.png)
 
 ## Objetivo  
 Proyecto de análisis de datos para identificar patrones de violencia laboral contra mujeres mediante encuestas codificadas y propuestas de intervención.  
