@@ -35,7 +35,7 @@ REVISTA/
 
 ## 📊 Análisis Completo  
 Explora el notebook con gráficos interactivos:  
-[![Open In Jupyter](https://img.shields.io/badge/Jupyter-Open%20Notebook-blue)](notebooks/EDA_violencia_laboral.ipynb)
+[![Open In Jupyter](https://img.shields.io/badge/Jupyter-Open%20Notebook-blue)](notebooks/EDA.ipynb)
 
 ## Cómo Contribuir  
 1. Clona el repositorio.  
