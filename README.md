@@ -10,17 +10,17 @@ Proyecto de análisis de datos para identificar patrones de violencia laboral co
 REVISTA/  
 │
 ├── data/                  # Datos del proyecto  
-│   └── processed/         # Datos limpios (ej: CSV listos para análisis)  
+│             └── processed/         # Datos limpios (ej: CSV listos para análisis)  
 │
 ├── notebooks/             # Jupyter Notebooks o scripts de análisis  
-│   └── EDA.ipynb          # Análisis exploratorio  
+│             └── EDA.ipynb          # Análisis exploratorio  
 │
 ├── docs/                  # Documentación  
-│   ├── DAVINA.pdf         # Revista digital  
-│   └── images/            # Imágenes usadas en la revista o README  
+│             ├── DAVINA.pdf         # Revista digital  
+│                        └── images/            # Imágenes usadas en la revista o README  
 |
 ├── visualizaciones/   
-|   └── graficos/          # Imágenes de los Graficos obtenidos en el Análisis Exploratorio
+|             └── graficos/          # Imágenes de los Graficos obtenidos en el Análisis Exploratorio
 ├── .gitignore             # Archivos que Git debe ignorar (ej: .csv, .pyc)  
 └── README.md              # Presentación del proyecto (¡ya lo tienes!)  
 
