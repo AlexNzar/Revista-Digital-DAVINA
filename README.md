@@ -33,6 +33,10 @@ REVISTA/
 - Java (encuestas por terminal)  
 - GitHub (control de versiones)  
 
+## 📊 Análisis Completo  
+Explora el notebook con gráficos interactivos:  
+[![Open In Jupyter](https://img.shields.io/badge/Jupyter-Open%20Notebook-blue)](notebooks/EDA_violencia_laboral.ipynb)
+
 ## Cómo Contribuir  
 1. Clona el repositorio.  
 2. Ejecuta `pip install -r requirements.txt` (si aplica).  
