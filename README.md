@@ -3,7 +3,7 @@
 ![Portada de la revista DAVINA](https://github.com/AlexNzar/Revista/blob/main/docs/images/Portada_revista.png)
 
 ## Objetivo  
-Proyecto de análisis de datos para identificar patrones de violencia laboral contra mujeres mediante encuestas codificadas y propuestas de intervención.  
+Proyecto de análisis de datos para identificar patrones de violencia laboral, el como es que ha sido algo que hace años parecía normal,  pero poco apoco se le fué dando la importancia que realmente debía tener, asi com la recolección de algunas encuestas que nos abre el panorama exploratorio de causas y consecuencias que la violencia provoca, así como un programa de ayuda a traves de preguntas guiadas en JavaScript con propuestas de intervención y ayuda.  
 
 ## Estructura del Repositorio  
 
@@ -22,44 +22,18 @@ REVISTA/
 
 
 ## Tecnologías Usadas  
-- Python (Pandas, Matplotlib)  
+- Python (Pandas, Matplotlib, Seaborn)
+- JupyterNotebook (Análisis gráfica)
 - Java (encuestas por terminal)  
 - GitHub (control de versiones)  
 
-## 📊 Análisis Completo  
+## Revista Formato PDF
+es importante identificar cuando hay un entono laboral con violencia, para identificarlo y evitarlo, así como también tratarlo.
+![Revista DAvina](https://github.com/AlexNzar/Revista/blob/main/docs/DAVINA.pdf)
+
+## 📊 Sección de Análisis Gráfico Completo 
 Explora el notebook con gráficos interactivos:  
 [![Open In Jupyter](https://img.shields.io/badge/Jupyter-Open%20Notebook-blue)](notebooks/EDA.ipynb)
-
-## Cómo Contribuir  
-1. Clona el repositorio.  
-2. Ejecuta `pip install -r requirements.txt` (si aplica).  
-3. Explora los notebooks en `/notebooks`.  
-
-## Autores  
-- Erik Alejandro Mancio Almanzar  (https://github.com/AlexNzar)  
- 
- Revista
-
-Este link te dirige a un apartado donde puedes viualizar una apartado con más información sobre este tema.
-https://www.canva.com/design/DAF1TY-IbqU/FLsmvarDzy_wDzzHDi9KNg/edit
-
-
-
-
-![image](https://github.com/AlexNzar/Revista/assets/145720196/9a125bb2-dd10-4e55-9bf2-f2eb549edb78)
-
-
-![image](https://github.com/AlexNzar/Revista/assets/145720196/764bf194-ee94-4f6b-95e1-4801dc17d3d2)
-
-
-
-v![image](https://github.com/AlexNzar/Revista/assets/145720196/dca7e63f-f7af-427d-b637-0c75b106f8d7)
-
-![image](https://github.com/AlexNzar/Revista/assets/145720196/253528e8-8b3e-4b66-9398-282688992053)
-
-
-
-![image](https://github.com/AlexNzar/Revista/assets/145720196/9cb1672d-84b2-43bd-87ea-1ca110e17b1f)
 
 
 ![image](https://github.com/AlexNzar/Revista/assets/145720196/23c841f0-e259-4a7e-be98-60ca115754c3)
