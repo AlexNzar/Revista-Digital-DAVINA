@@ -28,14 +28,9 @@ REVISTA/
 - GitHub (control de versiones)  
 
 ## Revista Formato PDF
-es importante identificar cuando hay un entono laboral con violencia, para identificarlo y evitarlo, así como también tratarlo.
-![Revista DAvina](https://github.com/AlexNzar/Revista/blob/main/docs/DAVINA.pdf)
+Es importante identificar cuando hay un entono laboral con violencia, para identificarlo y evitarlo, así como también tratarlo.
+[!](https://github.com/AlexNzar/Revista/blob/main/docs/DAVINA.pdf)
 
 ## 📊 Sección de Análisis Gráfico Completo 
 Explora el notebook con gráficos interactivos:  
 [![Open In Jupyter](https://img.shields.io/badge/Jupyter-Open%20Notebook-blue)](notebooks/EDA.ipynb)
-
-
-![image](https://github.com/AlexNzar/Revista/assets/145720196/23c841f0-e259-4a7e-be98-60ca115754c3)
-
-![image](https://github.com/AlexNzar/Revista/assets/145720196/0ac1c2c5-3227-44c6-8cfb-279f6613d9e5)
