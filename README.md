@@ -30,9 +30,7 @@ REVISTA/
 - JupyterNotebook (Análisis gráfica)
 - Java (encuestas por terminal)  
 - GitHub (control de versiones)  
-![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)  
-  ![Pandas](https://img.shields.io/badge/Pandas-1.3.0-red?logo=pandas)  
-  ![Plotly](https://img.shields.io/badge/Plotly-5.0.0-green?logo=plotly) 
+
 
 ## 🚀 Cómo Usar Este Proyecto  
 1. Clona el repositorio.  
@@ -41,7 +39,7 @@ REVISTA/
 
 ## Revista Formato PDF
 Es importante identificar cuando hay un entono laboral con violencia, para identificarlo y evitarlo, así como también tratarlo.
-[!](https://github.com/AlexNzar/Revista/blob/main/docs/DAVINA.pdf)
+[Revista Digital](https://github.com/AlexNzar/Revista/blob/main/docs/DAVINA.pdf)
 
 ## 📊 Sección de Análisis Gráfico Completo 
 Explora el notebook con gráficos interactivos:  
