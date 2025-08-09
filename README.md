@@ -1,4 +1,6 @@
+
 # Revista DAVINA: Análisis de Violencia Laboral hacia Mujeres  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
 <p align="center">
   <a href="https://github.com/AlexNzar/Revista/blob/main/docs/DAVINA.pdf">
@@ -71,3 +73,17 @@ como parte de un **proyecto prototípico académico**. Su participación fue fun
 ### 🔍 Nota sobre la Autoría  
 - **Análisis exploratorio, diseño del repositorio y adaptación para portfolio**: Realizados por mí [Erik Alejandor Mancio Almanzar](https://github.com/AlexNzar).  
 - **Contenido original del PDF**: Trabajo colaborativo con los autores mencionados.  
+
+
+## 📜 Licencia  
+
+Este proyecto está bajo la [Licencia MIT](LICENSE).  
+
+**¿Qué significa?**  
+- ✔️ **Puedes**: Usar, modificar y distribuir el código/datos libremente.  
+- ✔️ **Debes**: Incluir el aviso de copyright original y una copia de la licencia.  
+- ✔️ **No es responsable**: El autor de daños por el uso del material.  
+
+**Atribución sugerida**:  
+> "Datos y análisis de violencia laboral por Erik Alejandro Mancio Almanzar, disponible bajo licencia MIT.  
+> Repositorio: [github.com/AlexNzar/Revista](https://github.com/AlexNzar/Revista)"  
