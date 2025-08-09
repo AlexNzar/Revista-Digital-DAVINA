@@ -28,8 +28,10 @@ REVISTA/
 │   └── images/               # Imágenes
 ├── notebooks/                # Scripts de análisis
 │   └── EDA.ipynb             # Análisis exploratorio
-└── visualizaciones/          # Gráficos
-    └── graficos/             # Resultados del EDA
+├── visualizaciones/          # Gráficos
+|   └── graficos/             # Resultados del EDA
+├── LICENSE                   # Archivo de licencia
+└── README.md                 # Descripción del Proyecto
 ```
 
 
