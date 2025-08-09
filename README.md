@@ -40,7 +40,6 @@ REVISTA/
 ## ⚙Tecnologías Usadas
 - Python (Pandas, Matplotlib, Seaborn)
 - JupyterNotebook (Análisis gráfica)
-- Java (encuestas por terminal)  
 - GitHub (control de versiones)  
 
 
