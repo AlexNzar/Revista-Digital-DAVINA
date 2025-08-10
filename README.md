@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
 <p align="center">
-  <a href="https://github.com/AlexNzar/Revista/blob/main/docs/DAVINA.pdf">
+  <a href="https://github.com/AlexNzar/Revista-Digital-DAVINA/blob/main/docs/DAVINA.pdf">
     <img src="docs/images/Portada_revista.png" alt="Portada de la Revista DAVINA" width="400"/>
   </a>
   <br>
@@ -51,7 +51,7 @@ REVISTA/
 
 ## Revista Formato PDF
 Es importante identificar cuando hay un entono laboral con violencia, para identificarlo y evitarlo, así como también tratarlo.
-[Revista Digital](https://github.com/AlexNzar/Revista/blob/main/docs/DAVINA.pdf)
+[Revista Digital](https://github.com/AlexNzar/Revista-Digital-DAVINA/blob/main/docs/DAVINA.pdf)
 
 
 ## 📊 Sección de Análisis Gráfico Completo 
@@ -85,4 +85,4 @@ Este proyecto está bajo la [Licencia MIT](LICENSE).
 
 **Atribución sugerida**:  
 > "Datos y análisis de violencia laboral por Erik Alejandro Mancio Almanzar, disponible bajo licencia MIT.  
-> Repositorio: [github.com/AlexNzar/Revista](https://github.com/AlexNzar/Revista)"  
+> Repositorio: [github.com/AlexNzar/Revista](https://github.com/AlexNzar/Revista-Digital-DAVINA)"  
