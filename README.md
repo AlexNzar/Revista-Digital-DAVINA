@@ -55,7 +55,8 @@ Es importante reconocer cuando hay un entono laboral con violencia, para poder a
 
 
 ## 📊 Sección de Análisis Gráfico 
-Explora el notebook donde se representa y explica los datos contenidos en la Revista Digital con gráficos que simplifican su estudio e interpretación:  
+Explora el notebook donde se representa y explica los datos contenidos en la Revista Digital con gráficos que simplifican su estudio e interpretación: 
+
 [![Open In Jupyter](https://img.shields.io/badge/Jupyter-Open%20Notebook-blue)](notebooks/EDA.ipynb)
 
 
