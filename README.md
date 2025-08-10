@@ -23,15 +23,14 @@ Proyecto de análisis de datos para identificar patrones de violencia laboral, e
 
 ```
 REVISTA/
-├── data/                     # Datos del proyecto
-│   └── processed/            # Datos limpios (CSV)
 ├── docs/                     # Documentación
-│   ├── DAVINA.pdf            # Revista digital
-│   └── images/               # Imágenes
+│   ├── images/               # Imágenes
+│   └── DAVINA.pdf            # Revista digital
 ├── notebooks/                # Scripts de análisis
 │   └── EDA.ipynb             # Análisis exploratorio
 ├── visualizaciones/          # Gráficos
 |   └── graficos/             # Resultados del EDA
+├── .gitignore                # Archivos no tomados en cuenta de carpetas locales  
 ├── LICENSE                   # Archivo de licencia
 └── README.md                 # Descripción del Proyecto
 ```
