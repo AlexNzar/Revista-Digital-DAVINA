@@ -85,4 +85,4 @@ Este proyecto está bajo la [Licencia MIT](LICENSE).
 
 **Atribución sugerida**:  
 > "Datos y análisis de violencia laboral por Erik Alejandro Mancio Almanzar, disponible bajo licencia MIT.  
-> Repositorio: [github.com/AlexNzar/Revista](https://github.com/AlexNzar/Revista-Digital-DAVINA)"  
+> Repositorio: [github.com/AlexNzar/Revista-Digital-DAVINA](https://github.com/AlexNzar/Revista-Digital-DAVINA)"  
