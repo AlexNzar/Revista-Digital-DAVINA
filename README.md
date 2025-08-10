@@ -12,7 +12,7 @@
  
 
 ## 🔎Objetivo  
-Proyecto de análisis de datos para identificar patrones de violencia laboral, el como es que ha sido algo que hace años parecía normal,  pero poco apoco se le fué dando la importancia que realmente debía tener, asi com la recolección de algunas encuestas que nos abre el panorama exploratorio de causas y consecuencias que la violencia provoca, así como un programa de ayuda a traves de preguntas guiadas en JavaScript con propuestas de intervención y ayuda.  
+Proyecto de análisis de datos para identificar patrones de violencia laboral, el como es que ha sido algo que hace años parecía normal,  pero poco apoco se le fué dando la importancia que realmente debía tener, asi como la recolección de algunas encuestas que nos abre el panorama exploratorio de causas y consecuencias que la violencia provoca, así como un programa de ayuda a traves de preguntas guiadas en JavaScript con propuestas de intervención y atención.  
 
 
 ## 📌 Impacto del Proyecto  
@@ -40,7 +40,7 @@ REVISTA/
 ## ⚙Tecnologías Usadas
 - Python (Pandas, Matplotlib, Seaborn)
 - JupyterNotebook (Análisis gráfica)
-- GitHub (control de versiones)  
+- Git/GitHub (control de versiones)  
 
 
 ## 🚀 Cómo Usar Este Proyecto  
@@ -50,12 +50,13 @@ REVISTA/
 
 
 ## Revista Formato PDF
-Es importante identificar cuando hay un entono laboral con violencia, para identificarlo y evitarlo, así como también tratarlo.
+Es importante reconocer cuando hay un entono laboral con violencia, para poder accionar ante éste y en caso de tener daños post-violencia, el donde poder tratarlo.
+
 [Revista Digital](https://github.com/AlexNzar/Revista-Digital-DAVINA/blob/main/docs/DAVINA.pdf)
 
 
-## 📊 Sección de Análisis Gráfico Completo 
-Explora el notebook con gráficos interactivos:  
+## 📊 Sección de Análisis Gráfico 
+Explora el notebook donde se representa y explica los datos contenidos en la Revista Digital con gráficos que simplifican su estudio e interpretación:  
 [![Open In Jupyter](https://img.shields.io/badge/Jupyter-Open%20Notebook-blue)](notebooks/EDA.ipynb)
 
 
